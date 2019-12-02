@@ -1,4 +1,4 @@
-logLength = 100;
+logLength = 100;% example input
 lengthlist = [14; 31; 36; 45];
 quantity = [211; 395; 610; 97];
 nLengths = length(lengthlist);
